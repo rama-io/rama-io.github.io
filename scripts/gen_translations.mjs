@@ -21,6 +21,7 @@ const SHEETS = [
 const LANG_MAP = {
 	en: 'values',
 	es: 'values-es',
+	ca: 'values-ca',
 	de: 'values-de',
 	fr: 'values-fr',
 	'pt-BR': 'values-pt-rBR',
@@ -28,6 +29,7 @@ const LANG_MAP = {
 	tr: 'values-tr',
 	fi: 'values-fi',
 	jp: 'values-jp',
+	gl: 'values-gl',
 	'zh-rCN': 'values-zh-rCN',
 }
 

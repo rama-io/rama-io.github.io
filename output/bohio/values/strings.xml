@@ -17,6 +17,7 @@
     <string name="btn_save">Save</string>
     <string name="btn_theme_apply_custom">Apply Custom Theme</string>
     <string name="checkbox_always_show_search_bar">Always visible</string>
+    <string name="checkbox_nav_bar_transparent">Transparent navigation bar</string>
     <string name="checkbox_prevent_home_screen_rotation">Lock screen rotation</string>
     <string name="checkbox_show_system_bar">Show system bar</string>
     <string name="colorpicker_theme_accent">Accent</string>
@@ -80,12 +81,18 @@
     <string name="product_jersey_url" translatable="false">github.com/scfried/soft-type-jersey</string>
     <string name="product_mako" translatable="false">Mako</string>
     <string name="product_mako_url" translatable="false">github.com/rama-io/mako</string>
+    <string name="product_mako_zero" translatable="false">Mako Zero</string>
+    <string name="product_mako_zero_url" translatable="false">github.com/rama-io/mako_zero</string>
     <string name="product_melange_creator" translatable="false">Savq</string>
     <string name="product_melange_name" translatable="false">Mélange Dark</string>
     <string name="product_melange_url" translatable="false">github.com/savq/melange-nvim</string>
     <string name="product_okapi" translatable="false">Okapi</string>
     <string name="product_okapi_url" translatable="false">github.com/rama-io/okapi</string>
+    <string name="product_okapi_zero" translatable="false">Okapi Zero</string>
+    <string name="product_okapi_zero_url" translatable="false">github.com/rama-io/okapi_zero</string>
     <string name="product_rama" translatable="false">Rama</string>
+    <string name="product_suri_zero" translatable="false">Suri Zero</string>
+    <string name="product_suri_zero_url" translatable="false">github.com/rama-io/suri_zero</string>
     <string name="product_teyin" translatable="false">Teyin</string>
     <string name="product_teyin_url" translatable="false">github.com/rama-io/teyin</string>
     <string name="product_tokyo_creator" translatable="false">Enkia</string>
@@ -95,18 +102,23 @@
     <string name="product_tui_url" translatable="false">github.com/rama-io/tui</string>
     <string name="product_txori" translatable="false">Txori</string>
     <string name="product_txori_url" translatable="false">github.com/rama-io/txori</string>
+    <string name="product_txori_zero" translatable="false">Txori Zero</string>
+    <string name="product_txori_zero_url" translatable="false">github.com/rama-io/txori_zero</string>
     <string name="radio_default">Default</string>
     <string name="radio_default_system">Default (System)</string>
     <string name="radio_font_custom">Custom font</string>
-    <string name="radio_language_english" translatable="false">English</string>
+    <string name="radio_language_ca" translatable="false">Català</string>
+    <string name="radio_language_de" translatable="false">Deutsch</string>
+    <string name="radio_language_en" translatable="false">English</string>
+    <string name="radio_language_es" translatable="false">Español</string>
     <string name="radio_language_fi" translatable="false">Suomi</string>
     <string name="radio_language_fil_rPH" translatable="false">Filipino</string>
-    <string name="radio_language_french" translatable="false">Français</string>
-    <string name="radio_language_german" translatable="false">Deutsch</string>
+    <string name="radio_language_fr" translatable="false">Français</string>
+    <string name="radio_language_gl" translatable="false">Galego</string>
     <string name="radio_language_jp" translatable="false">日本語</string>
     <string name="radio_language_pt_rBR" translatable="false">Português (Brasil)</string>
     <string name="radio_language_system_default">System Default (fallback to English)</string>
-    <string name="radio_language_turkish" translatable="false">Türkçe</string>
+    <string name="radio_language_tr" translatable="false">Türkçe</string>
     <string name="radio_language_zh_rCN" translatable="false">简体中文</string>
     <string name="radio_none">None</string>
     <string name="radio_theme_custom">Custom</string>
