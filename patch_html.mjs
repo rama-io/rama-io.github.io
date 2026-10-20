@@ -9,6 +9,7 @@ const PAGES = [
 	{ file: 'teyin.html', app: 'teyin' },
 	{ file: 'okapi.html', app: 'okapi' },
 	{ file: 'jaguar.html', app: 'jaguar' },
+	{ file: 'fikret.html', app: 'fikret' },
 ]
 
 // ---------------------------------------------------------------------------
