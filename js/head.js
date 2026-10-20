@@ -7,9 +7,6 @@ import {
 } from './helpers.js'
 import { currentRoute, filters } from './params.js'
 
-import './component_navbar.js'
-import './component_footer.js'
-
 export {
 	normalize,
 	getPrefix,

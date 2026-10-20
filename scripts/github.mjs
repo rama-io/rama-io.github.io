@@ -42,6 +42,7 @@ export const REPOS = {
 	teyin: 'rama-io/teyin',
 	okapi: 'rama-io/okapi',
 	jaguar: 'rama-io/jaguar',
+	fikret: 'rama-io/fikret',
 }
 
 export const HEADERS = {
